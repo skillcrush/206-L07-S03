@@ -98,7 +98,7 @@ footer {
 .services-content-wrapper {
   /* Add a Flexbox property to make the services-content-wrapper a flex parent container. */
 
-  /* Add a justify-content property and value so that any extra space if the parent container is between the child flex items.  */
+  /* Add a justify-content property and value so that any extra space in the parent container is between the child flex items as the layout changes and more than one card is on a row.  */
 
   /* Add the Flexbox property flex-flow: row wrap; to allow the flex child items to wrap. */
 
